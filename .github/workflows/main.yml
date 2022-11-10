@@ -15,11 +15,10 @@ jobs:
 
 
     steps:
-      -name: 'testing github action'
-        run: pwd
+      -name: 'print folder'
+        run: ls
 
-     -name: 'testing github action'
-        run: fatma
+     
     
 
 
