@@ -15,11 +15,10 @@ jobs:
 
 
     steps:
-      - name: 'print folder'
-        run: pwd
+      - name: 'printing folder contents'
+        run: ls
 
-      - name: 'print folder'
-        run: echo fatma
+      
         
 
      
